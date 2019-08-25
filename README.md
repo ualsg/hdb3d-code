@@ -3,7 +3,7 @@
 
 Urban Analytics Lab, National University of Singapore
 
-![](hdb3d-c4.png)
+![](hdb3d-c4_att.png)
 
 ## Data
 
@@ -77,7 +77,7 @@ The workflow produces [CityJSON](https://cityjson.org) and [OBJ](https://en.wiki
 A byproduct of the process is a [GeoJSON](https://geojson.org) 2D dataset of HDB footprints.
 The files can be downloaded at the [data repository](https://github.com/ualsg/hdb3d-data).
 
-![](hdb3d-c1.png)
+![](hdb3d-c1_att.png)
 
 
 ## Citation/credit 
