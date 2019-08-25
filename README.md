@@ -3,7 +3,7 @@
 
 Urban Analytics Lab, National University of Singapore
 
-![](hdb3d-c4_att.png)
+![](_images/hdb3d-c4_att.png)
 
 ## Data
 
@@ -19,7 +19,7 @@ You need to download the input datasets:
 - [HDB Property Information](https://data.gov.sg/dataset/hdb-property-information)
 - [OSM dump for Singapore](https://download.openstreetmap.fr/extracts/asia/)
 
-and place them in the `_data` directory.
+and place them in the `_data/` directory.
 
 ## Method
 
@@ -77,7 +77,7 @@ The workflow produces [CityJSON](https://cityjson.org) and [OBJ](https://en.wiki
 A byproduct of the process is a [GeoJSON](https://geojson.org) 2D dataset of HDB footprints.
 The files can be downloaded from the [data repository](https://github.com/ualsg/hdb3d-data).
 
-![](hdb3d-c1_att.png)
+![](_images/hdb3d-c1_att.png)
 
 
 ## Citation/credit 
