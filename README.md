@@ -77,8 +77,15 @@ The workflow produces [CityJSON](https://cityjson.org) and [OBJ](https://en.wiki
 A byproduct of the process is a [GeoJSON](https://geojson.org) 2D dataset of HDB footprints.
 The files can be downloaded from the [data repository](https://github.com/ualsg/hdb3d-data).
 
+This is an example of the data rendered in Blender:
+
 ![](_images/hdb3d-c1_att.png)
 
+It isn't too difficult to also visualise them in [Mapbox](https://www.mapbox.com):
+
+![](_images/hdb3d-mapbox.png)
+
+CityJSON and OBJ files are supported by many different software packages.
 
 ## Citation/credit 
 
