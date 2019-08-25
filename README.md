@@ -106,4 +106,4 @@ If using the code and data, please mention the following data sources: NUS Urban
 ## More information
 
 Please read more about the data on the [other Github repository](https://github.com/ualsg/hdb3d-data).
-You may also want to read [the article on our group's website](https://ual.sg/resources).
+You may also want to read [the article on our group's website](https://ual.sg/post/2019/08/25/release-of-3d-building-open-data-of-hdbs-in-singapore/).
