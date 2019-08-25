@@ -99,7 +99,8 @@ If using the code and data, please mention the following data sources: NUS Urban
     year = {2017},
     volume = {64},
     pages = {1--18},
-    month = jul
+    month = jul,
+    doi = {10.1016/j.compenvurbsys.2017.01.001}
 }
 ```
 
