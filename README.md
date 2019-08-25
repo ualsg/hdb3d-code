@@ -7,7 +7,7 @@ Urban Analytics Lab, National University of Singapore
 
 ## Data
 
-The data in CityJSON and OBJ is available at the [other Github repository](https://github.com/ualsg/hdb3d-data).
+The data in CityJSON and OBJ is available on the [other Github repository](https://github.com/ualsg/hdb3d-data).
 
 ## Disclaimer
 
@@ -75,7 +75,7 @@ These discrepancies caused a few errors.
 
 The workflow produces [CityJSON](https://cityjson.org) and [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file) files.
 A byproduct of the process is a [GeoJSON](https://geojson.org) 2D dataset of HDB footprints.
-The files can be downloaded at the [data repository](https://github.com/ualsg/hdb3d-data).
+The files can be downloaded from the [data repository](https://github.com/ualsg/hdb3d-data).
 
 ![](hdb3d-c1_att.png)
 

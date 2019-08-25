@@ -39,7 +39,7 @@ def output_citysjon(lsgeom, lsattributes):
     cm["CityObjects"] = {}
     cm["vertices"] = []
     #-- Metadata is added manually, no time to code something more intelligent
-    cm["metadata"]: {
+    cm["metadata"] = {
     "datasetTitle": "3D city model of public housing (HDB) buildings in Singapore",
     "datasetReferenceDate": "2019-08-25",
     "geographicLocation": "Singapore, Republic of Singapore",
