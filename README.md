@@ -89,7 +89,7 @@ CityJSON and OBJ files are supported by many different software packages.
 
 ## Citation/credit 
 
-If using the code and data, please mention the following data sources: NUS Urban Analytics Lab, HDB Singapore, OpenStreetMap contributors, and OneMap. If you are using it for a nice publication, please cite the following paper:
+If using the code and data, please mention the following data sources: NUS Urban Analytics Lab, HDB Singapore, OpenStreetMap contributors, and OneMap. If you are using it for a nice publication, please cite the following [paper](https://doi.org/10.1016/j.compenvurbsys.2017.01.001):
 
 ```
 @article{ceus_inferring_heights,
