@@ -91,6 +91,10 @@ CityJSON and OBJ files are supported by many different software packages.
 
 If using the code and data, please mention the following data sources: NUS Urban Analytics Lab, HDB Singapore, OpenStreetMap contributors, and OneMap. If you are using it for a nice publication, please cite the following [paper](https://doi.org/10.5194/isprs-annals-vi-4-w1-2020-37-2020):
 
+Biljecki F (2020): Exploration of open data in Southeast Asia to generate 3D building models. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, VI-4/W1-2020: 37-44. doi:10.5194/isprs-annals-vi-4-w1-2020-37-2020
+
+BibTeX entry:
+
 ```
 @article{2020_3dgeoinfo_3d_asean,
  author = {Biljecki, F.},
